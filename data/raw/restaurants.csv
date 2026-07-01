@@ -1,0 +1,21 @@
+id,name,cuisine_type,avg_order_value,rating,is_active,address
+1,Dragon Palace #1,American,15.61,4.4,True,43321 Brittany Bypass
+2,The Breakfast Club #2,American,21.11,3.0,True,33890 Jennifer Squares
+3,Wing Stop #3,American,18.85,3.8,True,79402 Peterson Drives Apt. 511
+4,Pad Thai Palace #4,American,18.45,3.6,True,55940 Herrera Lane Apt. 849
+5,Wing Stop #5,American,20.66,4.0,True,310 Kendra Common Apt. 164
+6,Pizza Planet #6,American,21.63,4.2,True,525 Clark Grove Apt. 928
+7,Sushi Express #7,American,19.52,3.5,True,76483 Cameron Trail
+8,Thai Orchid #8,American,20.94,4.0,True,05641 Robin Port
+9,Spice Route #9,American,16.61,4.6,True,76724 John Points Suite 969
+10,Wok This Way #10,American,18.07,3.8,True,3287 Katelyn Wall Apt. 226
+11,Wok This Way #11,American,19.98,4.2,True,6978 Maddox Wall
+12,Tokyo Grill #12,American,19.65,4.2,True,184 Rodriguez Mews
+13,Masala Kitchen #13,American,17.37,3.7,True,0482 Monica Hills
+14,Wok This Way #14,American,16.24,4.3,True,52880 Burns Creek
+15,The Breakfast Club #15,American,18.18,3.6,True,3039 Christopher Oval Apt. 822
+16,Tokyo Grill #16,American,16.21,4.3,True,248 Brandt Plains Apt. 465
+17,Ramen Lab #17,American,20.01,3.7,True,713 Caleb Brooks Apt. 930
+18,Sushi Express #18,American,19.14,4.1,True,031 Michele Cliffs
+19,Napoli's #19,American,20.92,4.1,True,7382 Sanchez Mountains
+20,The Smokehouse #20,American,20.38,4.0,True,11656 Owens Stream Apt. 106

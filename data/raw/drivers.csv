@@ -1,0 +1,11 @@
+id,first_name,vehicle_type,rating,total_deliveries,is_active
+1,Preet,car,4.5,1935,True
+2,Keisha,bike,4.6,2737,True
+3,Jordan,car,4.8,204,True
+4,Jordan,bike,4.2,115,True
+5,Diego,scooter,4.5,115,True
+6,Diego,car,4.9,553,True
+7,Marcus,bike,4.3,249,True
+8,Ashley,car,4.3,2477,True
+9,Tyler,bike,4.6,1857,True
+10,Tyler,car,4.8,2942,True
