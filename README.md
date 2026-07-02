@@ -1,4 +1,4 @@
-"# FoodExpress Product Analytics" 
+# FoodExpress Product Analytics
 
 FoodExpress: End-to-End Product Analytics Case Study
 
